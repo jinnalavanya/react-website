@@ -1,0 +1,152 @@
+{
+  "batches": [
+    {
+      "id": "98b3",
+      "course": "Front end development",
+      "date": "2024-06-25",
+      "duration": "75",
+      "timings": "8 ",
+      "trainer": "Tulja Vikas"
+    },
+    {
+      "id": "a4ba",
+      "course": "UI/UX development",
+      "date": "2024-06-25",
+      "duration": "75",
+      "timings": "8 ",
+      "trainer": "Jinna Lavanyaaa"
+    },
+    {
+      "id": "26da",
+      "course": "Python development",
+      "date": "2024-06-25",
+      "duration": "75",
+      "timings": "8 ",
+      "trainer": "Sushmita"
+    },
+    {
+      "id": "b38c",
+      "course": "Fullstack development",
+      "date": "2024-06-26",
+      "duration": "75",
+      "timings": "8.5",
+      "trainer": "Jinna"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "55d6",
+      "name": "hello",
+      "email": "jinnalavanya100@gmail.com",
+      "mobile": "8328235649",
+      "course": "ui",
+      "message": "Interested"
+    },
+    {
+      "id": "b961",
+      "name": "Jinna",
+      "email": "jinnalavanya100@gmail.com",
+      "mobile": "8328235649",
+      "course": "uiux",
+      "message": "Ready to join"
+    },
+    {
+      "id": "99a5",
+      "name": "Jinna",
+      "email": "jinnalavanya100@gmail.com",
+      "mobile": "8328235649",
+      "course": "uiux",
+      "message": "Wanna join"
+    },
+    {
+      "id": "a647",
+      "name": "Jinna",
+      "email": "jinnalavanya100@gmail.com",
+      "mobile": "8328235649",
+      "course": "python",
+      "message": "sbvsg"
+    }
+  ],
+  "courses": [
+    {
+      "id": "3cfa",
+      "course": "Python development",
+      "courseImg": "https://hyderabadittrainings.com/images/course/python%20(1).jpg",
+      "skills": "MERN",
+      "description": "Hyderabad IT Trainings offers affordable Python classroom training in Hyderabad & Python online training by Industry experts. Our Python course Includes from Basic to Advanced Level Python with DJango. We have designed our Python course content based on students requirement to achieve their goal. We offer both Python classroom training in Madhapur Hyderabad and Python online training with real time projects. We are one of the top Python training Institutes in Hyderabad.",
+      "duration": "75"
+    },
+    {
+      "id": "a5ef",
+      "course": "UI/UX development",
+      "courseImg": "https://hyderabadittrainings.com/images/course/ui-design.webp",
+      "skills": "html,css,font awesome",
+      "description": "html,css,bootstrap",
+      "duration": "75"
+    },
+    {
+      "id": "8471",
+      "course": "MERN development",
+      "courseImg": "https://hyderabadittrainings.com/images/course/full-stack-dev.webp",
+      "skills": "MERN",
+      "description": "Hyderabad IT Trainings offers affordable MERN Full stack development classroom training in Hyderabad & MERN full stack online training by Industry experts. Our MERN full stack developer course Includes from basic to advanced level concepts. We have designed our MERN full stack developer course content based on students requirement to achieve their goal. We are one of the leading MERN full stack development training Institutes in Hyderabad.",
+      "duration": "75"
+    },
+    {
+      "id": "f27b",
+      "course": "Java Developer",
+      "courseImg": "https://img.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg?ga=GA1.1.430215509.1719829891&semt=ais_user",
+      "skills": "Java,html,css",
+      "description": "Hyderabad IT Trainings offers affordable Java Full Stack Development Classroom Training in Hyderabad & Java Full Stack Developer Course Online Training by Industry experts. Our Java full stack developer course Includes from basic to advanced level concepts. We have designed our Full Stack Java Developer Course content based on students requirement to achieve their goal. We are one of the leading Java Full Stack Training Institutes in Hyderabad.",
+      "duration": "75"
+    },
+    {
+      "id": "d83f",
+      "course": "PHP with SQL",
+      "courseImg": "https://hyderabadittrainings.com/images/course/phpmysql.webp",
+      "skills": "php,sql,html,css",
+      "description": "php,sql,html,css",
+      "duration": "75"
+    }
+  ],
+  "LatestNews": [
+    {
+      "id": "2",
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "id": "b566",
+      "title": [
+        "eum et est occaecati"
+      ],
+      "body": [
+        "ullam et saepe reiciendis voluptatem adipisci\\nsit amet autem assumenda provident rerum culpa\\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\\nquis sunt voluptatem rerum illo velit"
+      ]
+    },
+    {
+      "id": "8f2c",
+      "title": [
+        "eum et est occaecati"
+      ],
+      "body": [
+        "ullam et saepe reiciendis voluptatem adipisci\\nsit amet autem assumenda provident rerum culpa\\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\\nquis sunt voluptatem rerum illo velit"
+      ]
+    },
+    {
+      "id": "7803",
+      "title": "hello world",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\\nsit amet autem assumenda provident rerum culpa\\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\\nquis sunt voluptatem rerum illo velit"
+    },
+    {
+      "id": "0b26",
+      "title": "hello Jinna",
+      "body": "Welcome to web development world!!"
+    },
+    {
+      "id": "1a7b",
+      "title": "vavv",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\\nsit amet autem assumenda provident rerum culpa\\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\\nquis sunt voluptatem rerum illo velit"
+    }
+  ]
+}
